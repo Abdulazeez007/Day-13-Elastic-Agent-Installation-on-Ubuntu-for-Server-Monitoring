@@ -55,6 +55,7 @@ Let’s make sure everything is working as expected:
 5. Click on it to view the incoming logs.
 
 ![Alt text](https://raw.githubusercontent.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring/refs/heads/main/images/photo_5989808863731369922_w.jpg)
+
 ![Alt text](https://raw.githubusercontent.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring/refs/heads/main/images/photo_5989808863731369926_w.jpg)
 
 Congratulations! You’ve successfully installed an Elastic Agent on your Ubuntu Server! 🎉 You now have a powerful tool at your fingertips for monitoring your server’s performance, tracking system events, and keeping an eye on potential security issues.
