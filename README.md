@@ -43,6 +43,8 @@ Time to put that code to work:
 
 The Elastic Agent will now install and configure itself based on your policy.
 
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-13-Elastic-Agent-Installation-on-Ubuntu-for-Server-Monitoring/refs/heads/main/images/photo_5989808863731369924_w.jpg)
+
 ## Step 5: Verifying the Installation
 Let’s make sure everything is working as expected:
 
